@@ -1,0 +1,28 @@
+.nav {
+  display: flex;
+  background: #003400;
+  width: 100%;
+  justify-content: space-between;
+  align-content: flex-end;
+}
+.nav .logo {
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0px 30px;
+}
+.nav .logo img {
+  width: 100px;
+  height: 100px;
+  margin: 0px;
+}
+.nav ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+.nav ul li {
+  margin: auto;
+  padding: 30px;
+  color: white;
+  font: 20px solid;
+}

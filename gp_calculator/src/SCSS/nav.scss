@@ -1,0 +1,28 @@
+.nav{
+display: flex;
+background: darken($color: green, $amount: 15);
+width: 100%;
+justify-content: space-between;
+align-content: flex-end;
+    .logo{
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 0px 30px;
+        img{
+            width: 100px;
+            height: 100px;
+            margin: 0px;
+        } 
+    }
+    ul{
+        display: flex;
+        list-style-type: none;
+        justify-content: space-between;
+        li{
+            margin: auto;
+            padding: 30px;
+            color: white;
+            font: 20px solid;
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.courseForm {
+  display: none;
+}
+.courseForm * {
+  width: 20%;
+  margin: 0px 2.5%;
+  padding: 5px;
+  font-size: 20px;
+}
+.courseForm select {
+  width: 10%;
+}
+.courseForm button {
+  width: inherit;
+  padding: 8px;
+  background-color: #003400;
+  color: white;
+}

@@ -1,0 +1,31 @@
+li{
+
+    div{
+        display: inline-block;
+        margin-left: 15px;
+        img{
+            width: 25px;
+            height: 25px;
+            // &:hover{
+            //     font-style: italic;
+            // }
+        }
+}
+ 
+.oneCourse{
+    text-align: center;
+    display: inline-block;
+    margin: 7px 0px;
+    background-color:lighten(rgb(230, 224, 224), 6);
+    width: 95%;
+    div{
+        display: inline-block;
+        width:20%; 
+        margin:5px 2.5%;
+        font-size: 20px
+    }
+    // .cancelImage{
+        
+    // }
+}
+}

@@ -1,0 +1,21 @@
+li div {
+  display: inline-block;
+  margin-left: 15px;
+}
+li div img {
+  width: 25px;
+  height: 25px;
+}
+li .oneCourse {
+  text-align: center;
+  display: inline-block;
+  margin: 7px 0px;
+  background-color: #f4f1f1;
+  width: 95%;
+}
+li .oneCourse div {
+  display: inline-block;
+  width: 20%;
+  margin: 5px 2.5%;
+  font-size: 20px;
+}
