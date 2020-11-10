@@ -54,7 +54,7 @@ class Calculator extends Component{
     
     handleClear=()=>{
         this.setState({
-            courses: []
+            courses: null
         })
     }
     
